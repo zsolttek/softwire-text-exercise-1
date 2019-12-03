@@ -1,0 +1,13 @@
+
+Ksquid:S1612­",Replace this lambda with a method reference.(§İ ì8ıèÃì-
+ysquid:S00116"URename this field "HORIZONTAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¨†ƒüÿÿÿÿ8˜šÛ¶ë-
+osquid:S00116"PRename this field "SPACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯‹§8½à¿Åì-
+zsquid:S00116
+"[Rename this field "LEFT_COLUMN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¥»8§ò–Ãì-
+squid:S00116"]Rename this field "MIDDLE_COLUMN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‹Ïúÿÿÿÿ8×ö„Ãì-
+€squid:S00116"\Rename this field "RIGHT_COLUMN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¤»™øÿÿÿÿ8×ö„Ãì-
+W
+squid:S106­"9Replace this use of System.out or System.err by a logger.(§İ ì8ıèÃì-
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ù­8°Ê¶ë-
+Lsquid:S1068")Remove this unused "month" private field.(àÁ ªúÿÿÿÿ8ÜÒ´¸ë-
+wsquid:S00116"SRename this field "VERTICAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïñ‡Äşÿÿÿÿ8˜šÛ¶ë-
